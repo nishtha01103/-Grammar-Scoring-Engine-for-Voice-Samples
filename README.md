@@ -32,11 +32,14 @@ The model was evaluated using the following metrics:
 5. Prediction
 	•	Predicted grammar scores for test samples using the trained Random Forest model.
 	•	Saved results in the required CSV format (`submission.csv`).
+
 Results
 	•	Validation Metrics:
 	•	MAE: 
 	•	RMSE: 
 	•	R² Score: 
 	•	The model demonstrates improved performance in predicting grammar scores, with reduced error compared to initial attempts.
+
+ 
 Conclusion
 This Grammar Scoring Engine leverages advanced feature extraction techniques and a robust regression model to provide accurate grammar scores for spoken English. The use of Random Forest ensures interpretability and reliability, making it suitable for real-world applications such as language assessments and communication tools.
