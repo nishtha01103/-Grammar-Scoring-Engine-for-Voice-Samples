@@ -1,5 +1,5 @@
 # -Grammar-Scoring-Engine-for-Voice-Samples
-Overview
+The dataset was downloaded from kaggle deepfake detection challenge : https://www.kaggle.com/competitions/shl-intern-hiring-assessment/data
 This project aims to develop a machine learning-based Grammar Scoring Engine that evaluates spoken English audio samples and assigns a continuous grammar score ranging from 0 to 5. The dataset consists of audio files (45–60 seconds long) and corresponding ground truth labels based on MOS Likert Grammar Scores. The model processes the audio files, extracts meaningful features, and predicts grammar scores with improved accuracy.
 Problem Statement
 Evaluating the grammatical accuracy of spoken English is crucial in applications such as language learning, automated assessments, and communication tools. Manual evaluation is time-consuming and subjective, making it essential to build an automated system that provides consistent and objective grammar scoring.
